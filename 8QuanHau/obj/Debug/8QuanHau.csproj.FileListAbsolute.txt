@@ -1,0 +1,85 @@
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\bin\Debug\8QuanHau.exe
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\bin\Debug\8QuanHau.exe.config
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\Interop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\AxInterop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\8QuanHau.csproj.ResolveComReference.cache
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\_8QuanHau.fMain.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\_8QuanHau.fMayVSMay.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSMay.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSNguoi.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\_8QuanHau.Properties.Resources.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\8QuanHau.csproj.GenerateResource.Cache
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\8QuanHau.exe
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\8QuanHau.pdb
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\bin\Debug\8QuanHau.pdb
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\bin\Debug\Interop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\bin\Debug\AxInterop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\8QuanHau\8QuanHau\8QuanHau\obj\Debug\8QuanHau.csprojResolveAssemblyReference.cache
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.exe.config
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\Interop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csproj.ResolveComReference.cache
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.exe
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.pdb
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.exe
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.pdb
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\bin\Debug\Interop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csprojResolveAssemblyReference.cache
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fMain.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fMayVSMay.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSMay.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSNguoi.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.Properties.Resources.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Game Tam Quan Hau\Nhom 11 - Project - Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csproj.GenerateResource.Cache
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\bin\Debug\8QuanHau.exe.config
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\Interop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\8QuanHau.csproj.ResolveComReference.cache
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\8QuanHau.exe
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\8QuanHau.pdb
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\bin\Debug\8QuanHau.exe
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\bin\Debug\8QuanHau.pdb
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\bin\Debug\Interop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\8QuanHau.csprojResolveAssemblyReference.cache
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\_8QuanHau.fMain.resources
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\_8QuanHau.fMayVSMay.resources
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSMay.resources
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSNguoi.resources
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\_8QuanHau.Properties.Resources.resources
+C:\Users\Le Anh Nhan\Desktop\a\8QuanHau\obj\Debug\8QuanHau.csproj.GenerateResource.Cache
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.exe.config
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\Interop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csproj.ResolveComReference.cache
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.exe
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.pdb
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.exe
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.pdb
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\Interop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csprojResolveAssemblyReference.cache
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fMain.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fMayVSMay.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSMay.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSNguoi.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.Properties.Resources.resources
+C:\Users\Le Anh Nhan\Desktop\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csproj.GenerateResource.Cache
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.exe.config
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\Interop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\AxInterop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csproj.ResolveComReference.cache
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.exe
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.pdb
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.exe
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\8QuanHau.pdb
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\Interop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\bin\Debug\AxInterop.WMPLib.dll
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csprojResolveAssemblyReference.cache
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fMain.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fMayVSMay.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSMay.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.fNguoiVSNguoi.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\_8QuanHau.Properties.Resources.resources
+D:\Learning\HK3( 2018-2019 )\KyThuatLapTrinh\DoAnCuoiKy\Nhom 11- Game Tam Quan Hau\Nhom 11- Project- Tam Quan Hau\8QuanHau\obj\Debug\8QuanHau.csproj.GenerateResource.Cache
